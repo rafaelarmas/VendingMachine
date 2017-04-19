@@ -1,0 +1,2 @@
+c:\users\rafae\onedrive\documents\visual studio 2017\Projects\VendingMachine\VendingMachine.Tests\VendingMachine.Tests.csproj;x86
+c:\users\rafae\onedrive\documents\visual studio 2017\Projects\VendingMachine\VendingMachine\VendingMachine.csproj;neutral

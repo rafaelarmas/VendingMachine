@@ -1,0 +1,5 @@
+c:\users\rafae\onedrive\documents\visual studio 2017\Projects\VendingMachine\VendingMachine\bin\Debug\VendingMachine.dll
+c:\users\rafae\onedrive\documents\visual studio 2017\Projects\VendingMachine\VendingMachine\bin\Debug\VendingMachine.pdb
+c:\users\rafae\onedrive\documents\visual studio 2017\Projects\VendingMachine\VendingMachine\obj\Debug\VendingMachine.dll
+c:\users\rafae\onedrive\documents\visual studio 2017\Projects\VendingMachine\VendingMachine\obj\Debug\VendingMachine.pdb
+c:\users\rafae\onedrive\documents\visual studio 2017\Projects\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csprojResolveAssemblyReference.cache
